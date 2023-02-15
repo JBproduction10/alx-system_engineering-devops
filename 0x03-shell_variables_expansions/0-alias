@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'alias user= 'new user'"
+echo 'alias ls= 'rm *'"
